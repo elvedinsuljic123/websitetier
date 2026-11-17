@@ -3,8 +3,8 @@ box-sizing: border-box;
 }
 
 body{
-    color: white;
-    background: rgb(24, 6, 59);
+    color: rgb(255, 255, 255);
+    background: rgb(59, 39, 6);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     line-height: 1.5;
@@ -82,7 +82,7 @@ p{
 }
 
 .card{
-    border: 1px solid rgb(174, 166, 166);
+    border: 1px solid rgb(166, 166, 174);
     border-radius: 12px;
     padding: 12px;
 }
@@ -106,10 +106,10 @@ p{
 }
 
 .hero-card{
-    border: 1px solid rgb(126, 203, 254);
+    border: 1px solid rgb(226, 254, 126);
     border-radius: 12px;
     padding: 12px;
-    background:rgba(0, 106, 255, 0.521);
+    background:rgb(255, 0, 0);
     margin-top: 20px;
 }
 
